@@ -1,2 +1,5 @@
-# react-ssr
-This repo for learning purpose.
+# react-ssr-demo
+
+npm install
+
+npm run dev
